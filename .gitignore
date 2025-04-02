@@ -1,0 +1,35 @@
+# VSCode
+.vscode/
+
+# IntelliJ
+*.iml
+.idea/
+
+# Build directories
+/dist/
+node_modules/
+
+# Compiled files
+main.js
+
+# Source maps
+*.map
+
+# Obsidian
+data.json
+
+# macOS Finder
+.DS_Store
+
+# Tailwind CSS
+/styles.css
+
+# Turbo build cache
+.turbo/
+**/.turbo/
+.vercel
+.env*.local
+
+# Expo native directories
+/android/
+/ios/
